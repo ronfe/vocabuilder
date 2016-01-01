@@ -5,10 +5,17 @@ A vocabulary builder for (cur English) L2 learners
 
 * L2学习者对目的语词汇的习得不是二元分布（会/不会、认识/不认识 等），其中还包含多个状态。
 * 对某个词__完全的习得__应能够在口语/书面中自如、恰当地使用。
-* 从完全陌生到完全习得，中间可包括 A 陌生 - B 即视感（感到似曾相识，但无法识别其意义） - C 辨认（传统意义的“认识”，能够正确回答单词的基本义，但在阅读中常需要反应出该词在学习者母语中的对应词）- D 潜认（无需借助母语即可理解, 可能在口语及写作中开始使用）- E 习得
-  例，某新闻标题： Rochester Cancels Fireworks After Terror Plot Thwarted
-  对于我：Rochester/NE Cancels/E Fireworks/E After/E Terror/D Plot/D Thwarted/B
-  其中，NE 为命名实体（Named Entity），A-E分别对应上述各状态
+* 从完全陌生到完全习得，中间可包括  
+  - A 陌生  
+  - B 即视感（感到似曾相识，但无法识别其意义）
+  - C 辨认（传统意义的“认识”，能够正确回答单词的基本义，但在阅读中常需要反应出该词在学习者母语中的对应词）
+  - D 潜认（无需借助母语即可理解, 可能在口语及写作中开始使用）
+  - E 习得  
+
+  例，某新闻标题： Rochester Cancels Fireworks After Terror Plot Thwarted  
+  对于我：Rochester/NE Cancels/E Fireworks/E After/E Terror/D Plot/D Thwarted/B  
+  其中，NE 为命名实体（Named Entity），A-E分别对应上述各状态  
+
 * 词汇学习的目标是尽可能探知学习者对一个单词所处的状态，针对状态为A-C的词汇，通过各种手段推动其的习得状态。
 * 基于以上，词汇的习得亦应区分层次，A/B状态的词汇需要向L2学习者更多地复现，B状态词汇还需让学习者主动意识到该词所处的习得状态，推动其通过翻查字典等方式得知意义；C状态词汇需通过填句练习，鼓励学习者尝试在其口语与习作中使用该词。
 
