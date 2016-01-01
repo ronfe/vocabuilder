@@ -30,3 +30,8 @@ A vocabulary builder for (cur English) L2 learners
 * 根据用户对组块的表现，更新对其词汇能力的估计。
 * 将估计值反馈给用户。
 
+
+### TODO
+
+* 找出一个文章的命名实体，置灰（NLTK NER）
+* 剩余的单词可以选择，选中后弹出基本释义（有没有API？？）  
